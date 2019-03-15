@@ -3,7 +3,7 @@
     "lane": [
       {
         "number": "1001",
-        "status": "asdfasdfasdf"
+        "status": "aaaaaaaaaaaaaa"
       },
       {
         "number": "1002",
