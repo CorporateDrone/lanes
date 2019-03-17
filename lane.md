@@ -3,15 +3,15 @@
     "lane": [
       {
         "number": "1001",
-        "status": "testme"
+        "status": "git"
       },
       {
         "number": "1002",
-        "status": "running"
+        "status": "git"
       },
       {
         "number": "1004",
-        "status": "jam"
+        "status": "git"
       }
     ]
   },
