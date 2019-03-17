@@ -7,11 +7,11 @@
       },
       {
         "number": "1002",
-        "status": "git"
+        "status": "hub"
       },
       {
         "number": "1004",
-        "status": "git"
+        "status": "hub"
       }
     ]
   },
