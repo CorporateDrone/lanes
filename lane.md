@@ -3,7 +3,7 @@
     "lane": [
       {
         "number": "1001",
-        "status": "git"
+        "status": "hub"
       },
       {
         "number": "1002",
